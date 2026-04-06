@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Data - images, models, and pretrained weights (too large for GitHub)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+.claude/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
